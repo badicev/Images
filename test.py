@@ -1,0 +1,3 @@
+#deneme
+
+print("Hello World")
